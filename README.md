@@ -1,7 +1,7 @@
 Input : 
 The datavam.sql file creates the required database which contains professors, subjects, number of hours, number of batches etc..
 
-Command : source ./data_vam.sql (./ implies the files should be executed in the same directory.)
+Command : source ##directory##/data_vam.sql  ( Enter the directory of the .sql file)
 
 Output : 
 Based on the number of batches, batch.txt files are created for every batch with necessary professor information given in the batch.txt files
