@@ -1,0 +1,15 @@
+
+		08-09  09-10  10-11  11-12  13-14  14-15  15-16  16-17  
+
+Monday   	2 101  7 101  7 102  5 201  enjoy  enjoy  enjoy  2 101  
+Tuesday  	7 101  enjoy  enjoy  5 201  7 101  7 101  7 202  5 201  
+Wednesday	enjoy  7 101  7 102  enjoy  2 101  2 202  2 201  enjoy  
+Thursday 	5 102  enjoy  5 102  5 201  enjoy  5 101  2 101  2 102  
+Friday   	enjoy  2 101  enjoy  enjoy  7 102  5 102  enjoy  7 101  
+
+
+Information : 
+2. ML : P.Bera
+5. DS : S.Saha
+7. CN : S.Saha
+
