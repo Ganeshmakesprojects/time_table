@@ -6,7 +6,7 @@ Command : source ./data_vam.sql (./ implies the files should be executed in the 
 Output : 
 Based on the number of batches, batch.txt files are created for every batch with necessary professor information given in the batch.txt files
 
-Command : python main.py
+Command : python main.py  ( python3 is used)
 
 main.py takes input from the database and uses genetic algorithms to generate least conflicting time table.
 
